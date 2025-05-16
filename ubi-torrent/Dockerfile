@@ -17,16 +17,15 @@ ENV DEBIAN_FRONTEND=noninteractive \
     INST_DIR=$STARTUPDIR/install \
     INST_SCRIPTS="/ubuntu/install/tools/install_tools_deluxe.sh \
                   /ubuntu/install/misc/install_tools.sh \
-                  /ubuntu/install/qbittorrent/qbittorrent.sh \
-                  /ubuntu/install/podman/podman.sh \
+                  /ubuntu/install/qbittorrent/install_qbittorrent.sh \
+                  #/ubuntu/install/podman/install_podman.sh \
                   /ubuntu/install/chromium/install_chromium.sh \
                   /ubuntu/install/firefox/install_firefox.sh \
-                  /ubuntu/install/vs_code/install_vs_code.sh \
                   /ubuntu/install/remmina/install_remmina.sh \
-                  /ubuntu/install/signal/install_signal.sh \
-                  /ubuntu/install/obs/install_obs.sh \
+                  /ubuntu/install/gnome-terminal/install_smb.sh \
                   /ubuntu/install/thunderbird/install_thunderbird.sh \
                   /ubuntu/install/gamepad_utils/install_gamepad_utils.sh \
+                  /ubuntu/install/steam/install_retroarch.sh \
                   /ubuntu/install/vpn/install_vpn.sh \
                   /ubuntu/install/cleanup/cleanup.sh"
 
