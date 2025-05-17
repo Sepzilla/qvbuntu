@@ -22,10 +22,10 @@ ENV DEBIAN_FRONTEND=noninteractive \
                   /ubuntu/install/chromium/install_chromium.sh \
                   /ubuntu/install/firefox/install_firefox.sh \
                   /ubuntu/install/remmina/install_remmina.sh \
-                  /ubuntu/install/gnome-terminal/install_smb.sh \
+                  #/ubuntu/install/gnome-terminal/install_smb.sh \
                   /ubuntu/install/thunderbird/install_thunderbird.sh \
                   /ubuntu/install/gamepad_utils/install_gamepad_utils.sh \
-                  /ubuntu/install/steam/install_retroarch.sh \
+                  #/ubuntu/install/steam/install_retroarch.sh \
                   /ubuntu/install/vpn/install_vpn.sh \
                   /ubuntu/install/cleanup/cleanup.sh"
 
