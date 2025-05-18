@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Norosm Base',
     description: 'The basic image for daily use.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/Sepzilla',
+    listUrl: 'https://sepzilla.github.io/qvbuntu/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
