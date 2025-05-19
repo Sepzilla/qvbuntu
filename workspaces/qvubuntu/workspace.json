@@ -1,0 +1,17 @@
+{
+  "friendly_name": "qvubuntu",
+  "image_src": "blob:https://sepzilla.github.io/3417a76e-9406-4cd4-ab5b-e9be58ae2629",
+  "description": "personalized desktop",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "name": "docker pull sepzilla/qvubuntu:1"
+}
