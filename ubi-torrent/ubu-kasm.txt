@@ -1,140 +1,0 @@
-Script started on 2025-05-16 17:26:28-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="83" LINES="11"]
-[1m[36m           [30m.[36m-------------------------:
-          .[32m+=[36m========================.
-         :[32m++[36m===[32m++===[36m===============-       :[32m++[36m-
-        :[32m*++[36m====[32m+++++==[36m===========-        .==:
-       -[32m*+++[36m=====[32m+***++=[36m=========:
-      =[32m*++++=[36m=======------------:
-     =[32m*+++++=[36m====-                     [30m...[36m
-   .[32m+*+++++[36m=-===:                    .[32m=+++=[36m:
-  :[32m++++[36m=====-==:                     -***[32m**[36m+
- :[32m++=[36m=======-=.                      .=+**+[30m.[36m
-.[32m+[36m==========-.                          [30m.[36m
- :[32m+++++++[36m====-                                [30m.[36m--==-[30m.[36m
-  :[32m++[36m==========.                             [30m:[32m+++++++[36m[30m:
-   [36m.-===========.                            =*****+*+
-    [36m.-===========:                           .+*****+:
-      [36m-=======[32m++++[36m:::::::::::::::::::::::::-:  [30m.[36m---:
-       :======[32m++++[36m====[32m+++******************=.
-        [36m:=====[32m+++[36m==========[32m++++++++++++++*-
-         [36m.====[32m++[36m==============[32m++++++++++*-
-          [36m.===[32m+[36m==================[32m+++++++:
-           [36m.-=======================[32m+++:
-             [30m..........................[m[1G[21A[m[?7l[58C[m[1m[36mcachy[m@[1m[36mcachy[m
-[58C-----------
-[58C[m[1m[36mOS[m: [mCachyOS x86_64
-[58C[m[1m[36mHost[m: [mB550 PG Riptide
-[58C[m[1m[36mKernel[m: [mLinux 6.12.28-1-cachyos-lts
-[58C[m[1m[36mUptime[m: [m5 days, 3 hours, 8 mins
-[58C[m[1m[36mPackages[m: [m1736 (pacman), 35 (flatpak-system), 1 (flatpak-user)
-[58C[m[1m[36mShell[m: [mfish 4.0.2
-[58C[m[1m[36mDisplay (VCS)[m: [m1920x1080 @ 60 Hz [External]
-[58C[m[1m[36mDE[m: [mGNOME 48.1
-[58C[m[1m[36mWM[m: [mMutter (Wayland)
-[58C[m[1m[36mWM Theme[m: [mAdwaita
-[58C[m[1m[36mTheme[m: [mAdwaita [GTK2/3/4]
-[58C[m[1m[36mIcons[m: [mAdwaita [GTK2/3/4]
-[58C[m[1m[36mFont[m: [mNoto Sans (13pt) [GTK2/3/4]
-[58C[m[1m[36mCursor[m: [mAdwaita (24px)
-[58C[m[1m[36mTerminal[m: [mscript
-[58C[m[1m[36mCPU[m: [mAMD Ryzen 7 3800X (16) @ 4.56 GHz
-[58C[m[1m[36mGPU[m: [mNVIDIA GeForce RTX 3060 Lite Hash Rate [Discrete]
-[58C[m[1m[36mMemory[m: [m9.91 GiB / 31.27 GiB ([32m32%[m)
-[58C[m[1m[36mSwap[m: [m3.23 GiB / 31.27 GiB ([32m10%[m)
-[58C[m[1m[36mDisk (]8;;file:///\/]8;;\)[m: [m347.84 GiB / 463.74 GiB ([93m75%[m) - btrfs
-[58C[m[1m[36mDisk (]8;;file:///solidd\/solidd]8;;\)[m: [m32.12 GiB / 1.82 TiB ([32m2%[m) - btrfs
-[58C[m[1m[36mLocal IP (enp6s0)[m: [m192.168.1.16/24
-[58C[m[1m[36mLocale[m: [men_US.UTF-8
-[58C
-[58C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
-[58C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
-[?7h]7;file://cachy/home/cachy/.images/ubi-torrent[K]0;~/.images/ubi-torrent - fish[30m(B[m[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19Dls -a[K[7C[?2004h[>4;1m[=5u=ls [36m-a[30m(B[m[7C[?2004l[>4;0m[=0u>sudo docker build -t vpn-ubi:personalized -f Dockerfile .[59C[?2004h[>4;1m[=5u=[57Dsudo [36mdocker build -t vpn-ubi:personalized -f [36m[4mDockerfile[36m[24m .[30m(B[m[59C[?2004l[>4;0m[=0u>[57Dcd ubi-torrent/[K[17C[?2004h[>4;1m[=5u=[15Dcd [91mubi-torrent/[30m(B[m[17C[?2004l[>4;0m[=0u>[15Dgit clone https://github.com/kasmtech/workspaces-images.git[61C[?2004h[>4;1m[=5u=[59Dgit [36mclone https://github.com/kasmtech/workspaces-images.git[30m(B[m[61C[?2004l[>4;0m[=0u>[59Dcd ubi-torrent/[K[17C[?2004h[>4;1m[=5u=[15Dcd [91mubi-torrent/[30m(B[m[17C[?2004l[>4;0m[=0u>[15Dsudo docker build -t vpn-ubi:personalized -f Dockerfile .[59C[?2004h[>4;1m[=5u=[57Dsudo [36mdocker build -t vpn-ubi:personalized -f [36m[4mDockerfile[36m[24m .[30m(B[m[59C[?2004l[>4;0m[=0u>[57Dls -a[K[7C[?2004h[>4;1m[=5u=ls [36m-a[30m(B[m[7C[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=
-Script done on 2025-05-16 17:30:33-07:00 [COMMAND_EXIT_CODE="0"]
-[31mw[32mx[0m[33mr[1;90m-[0m[32mx[33mr[1;90m-[0m[32mx[0m    [1;90m-[0m [1;33mcachy[0m [34m16 May 16:39[0m [34m [1msrc[0m
-.[1;33mr[31mw[90m-[0m[33mr[1;90m--[0m[33mr[1;90m--[0m [1;32m1.7k[0m [1;33mcachy[0m [34m16 May 16:52[0m [33m [1;4mDockerfile[0m
-.[1;33mr[31mw[90m-[0m[33mr[1;90m--[0m[33mr[1;90m--[0m [1;32m4.1k[0m [1;33mcachy[0m [34m16 May 17:25[0m  ubu-kasm.txt
-]133;D;0[?25h[2m⏎(B[m                                                                                  ⏎ [K[K
-]0;~/.images/ubi-torrent - fish[30m(B[m[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>ls -a[7C[?2004h[>4;1m[=5u=ls [36m-a[30m(B[m[7C[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[21C
-[30m(B[m]133;C;cmdline_url=script%20ubu-kasm.txt[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent: script ubu-kasm.txt - script[30m(B[mScript started, output log file is 'ubu-kasm.txt'.
-[1m[36m           [30m.[36m-------------------------:
-          .[32m+=[36m========================.
-         :[32m++[36m===[32m++===[36m===============-       :[32m++[36m-
-        :[32m*++[36m====[32m+++++==[36m===========-        .==:
-       -[32m*+++[36m=====[32m+***++=[36m=========:
-      =[32m*++++=[36m=======------------:
-     =[32m*+++++=[36m====-                     [30m...[36m
-   .[32m+*+++++[36m=-===:                    .[32m=+++=[36m:
-  :[32m++++[36m=====-==:                     -***[32m**[36m+
- :[32m++=[36m=======-=.                      .=+**+[30m.[36m
-.[32m+[36m==========-.                          [30m.[36m
- :[32m+++++++[36m====-                                [30m.[36m--==-[30m.[36m
-  :[32m++[36m==========.                             [30m:[32m+++++++[36m[30m:
-   [36m.-===========.                            =*****+*+
-    [36m.-===========:                           .+*****+:
-      [36m-=======[32m++++[36m:::::::::::::::::::::::::-:  [30m.[36m---:
-       :======[32m++++[36m====[32m+++******************=.
-        [36m:=====[32m+++[36m==========[32m++++++++++++++*-
-         [36m.====[32m++[36m==============[32m++++++++++*-
-          [36m.===[32m+[36m==================[32m+++++++:
-           [36m.-=======================[32m+++:
-             [30m..........................[m[1G[21A[m[?7l[58C[m[1m[36mcachy[m@[1m[36mcachy[m
-[58C-----------
-[58C[m[1m[36mOS[m: [mCachyOS x86_64
-[58C[m[1m[36mHost[m: [mB550 PG Riptide
-[58C[m[1m[36mKernel[m: [mLinux 6.12.28-1-cachyos-lts
-[58C[m[1m[36mUptime[m: [m5 days, 3 hours, 8 mins
-[58C[m[1m[36mPackages[m: [m1736 (pacman), 35 (flatpak-system), 1 (flatpak-user)
-[58C[m[1m[36mShell[m: [mfish 4.0.2
-[58C[m[1m[36mDisplay (VCS)[m: [m1920x1080 @ 60 Hz [External]
-[58C[m[1m[36mDE[m: [mGNOME 48.1
-[58C[m[1m[36mWM[m: [mMutter (Wayland)
-[58C[m[1m[36mWM Theme[m: [mAdwaita
-[58C[m[1m[36mTheme[m: [mAdwaita [GTK2/3/4]
-[58C[m[1m[36mIcons[m: [mAdwaita [GTK2/3/4]
-[58C[m[1m[36mFont[m: [mNoto Sans (13pt) [GTK2/3/4]
-[58C[m[1m[36mCursor[m: [mAdwaita (24px)
-[58C[m[1m[36mTerminal[m: [mscript
-[58C[m[1m[36mCPU[m: [mAMD Ryzen 7 3800X (16) @ 4.56 GHz
-[58C[m[1m[36mGPU[m: [mNVIDIA GeForce RTX 3060 Lite Hash Rate [Discrete]
-[58C[m[1m[36mMemory[m: [m9.91 GiB / 31.27 GiB ([32m32%[m)
-[58C[m[1m[36mSwap[m: [m3.23 GiB / 31.27 GiB ([32m10%[m)
-[58C[m[1m[36mDisk (]8;;file:///\/]8;;\)[m: [m347.84 GiB / 463.74 GiB ([93m75%[m) - btrfs
-[58C[m[1m[36mDisk (]8;;file:///solidd\/solidd]8;;\)[m: [m32.12 GiB / 1.82 TiB ([32m2%[m) - btrfs
-[58C[m[1m[36mLocal IP (enp6s0)[m: [m192.168.1.16/24
-[58C[m[1m[36mLocale[m: [men_US.UTF-8
-[58C
-[58C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
-[58C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
-[?7h]7;file://cachy/home/cachy/.images/ubi-torrent[K]0;~/.images/ubi-torrent - fish[30m(B[m[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19Dls -a[K[7C[?2004h[>4;1m[=5u=ls [36m-a[30m(B[m[7C[?2004l[>4;0m[=0u>sudo docker build -t vpn-ubi:personalized -f Dockerfile .[59C[?2004h[>4;1m[=5u=[57Dsudo [36mdocker build -t vpn-ubi:personalized -f [36m[4mDockerfile[36m[24m .[30m(B[m[59C[?2004l[>4;0m[=0u>[57Dcd ubi-torrent/[K[17C[?2004h[>4;1m[=5u=[15Dcd [91mubi-torrent/[30m(B[m[17C[?2004l[>4;0m[=0u>[15Dgit clone https://github.com/kasmtech/workspaces-images.git[61C[?2004h[>4;1m[=5u=[59Dgit [36mclone https://github.com/kasmtech/workspaces-images.git[30m(B[m[61C[?2004l[>4;0m[=0u>[59Dcd ubi-torrent/[K[17C[?2004h[>4;1m[=5u=[15Dcd [91mubi-torrent/[30m(B[m[17C[?2004l[>4;0m[=0u>[15Dsudo docker build -t vpn-ubi:personalized -f Dockerfile .[59C[?2004h[>4;1m[=5u=[57Dsudo [36mdocker build -t vpn-ubi:personalized -f [36m[4mDockerfile[36m[24m .[30m(B[m[59C[?2004l[>4;0m[=0u>[57Dls -a[K[7C[?2004h[>4;1m[=5u=ls [36m-a[30m(B[m[7C[?2004l[>4;0m[=0u>script ubu-kasm.txt[21C[?2004h[>4;1m[=5u=[19Dscript [36m[4mubu-kasm.txt[30m(B[m[21C[?2004l[>4;0m[=0u>[19D[K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[C[C[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [J[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=[?2004l[>4;0m[=0u>]0;~/.images/ubi-torrent - fish[30m(B[m[A[K]133;A;special_key=1[34m~/.images/ubi-torrent [90mmain[90m*
-[35m❯(B[m [K[C[C[?2004h[>4;1m[=5u=
-Script done on 2025-05-16 17:30:33-07:00 [COMMAND_EXIT_CODE="0"]
